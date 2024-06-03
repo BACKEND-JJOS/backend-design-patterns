@@ -1,0 +1,11 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(³†ã²8Ÿµòõı1J$52a11092-46fb-4fff-ae5c-945f8e51ae37
+r	java:S106"+Replace this use of System.out by a logger.(µÜÇÁùÿÿÿÿ8¡µòõı1J$93bbe7cb-0757-403b-9fc1-341c4d6306d8
+r	java:S106"+Replace this use of System.out by a logger.(×¶Òüÿÿÿÿ8¡µòõı1J$ab225ee7-84ad-4bae-b78b-4dc1005b6584
+m	java:S106"+Replace this use of System.out by a logger.(ÜéË8¢µòõı1J$cd8336fc-53ff-47fb-b537-e53b6c88248d
+m	java:S106!"+Replace this use of System.out by a logger.(®¨”Õ8Øºõõı1J$7c9db699-3700-4551-9ab7-f5ff89b94e32
+r	java:S106""+Replace this use of System.out by a logger.(†‰…ñşÿÿÿÿ8Úºõõı1J$12fe5394-5279-433e-ab6b-a6ea195789d9
+r	java:S106#"+Replace this use of System.out by a logger.(ÿ¹Àşÿÿÿÿ8Ûºõõı1J$dd15aa24-7bea-43e0-b128-8d5911526676
+r	java:S106$"+Replace this use of System.out by a logger.(’†´•øÿÿÿÿ8Üºõõı1J$259ba0bd-af99-49c9-a1a3-a89d7d585166
+
+java:S1128">Remove this unused import 'com.jjos.prototype.products.Shirt'.(ÉÈôÜ8õõı1J$13b47ac2-d88f-45f2-8a89-489135aaf5a8
